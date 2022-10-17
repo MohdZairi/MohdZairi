@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohd Zairi</h1>
 <h3 align="center">3rd year of Science Computer Major In Artificial Intelligent</h3>
 
+<img align="right"  alt="coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdzairi&label=Profile%20views&color=0e75b6&style=flat" alt="mohdzairi" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://mohamadzairi658.wixsite.com/portfolio](https://mohamadzairi658.wixsite.com/portfolio)
