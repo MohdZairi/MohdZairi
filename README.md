@@ -60,3 +60,14 @@
 </p>
 
 
+<!----------------------------------- Profile View Section ------------------------------------>
+
+<p align="left">
+    <a href="https://github.com/MohdZairi">
+        <img src="https://komarev.com/ghpvc/?username=MohdZairi&label=Profile%20views&color=0e75b6&style=flat" alt="MohdZairi" />
+    </a>
+    <a href="https://github.com/MohdZairi?tab=followers">
+        <img src="https://img.shields.io/github/followers/MohdZairi?label=Followers&style=social" alt="followers-count">
+    </a>
+</p>
+
