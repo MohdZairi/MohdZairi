@@ -69,15 +69,7 @@
     </a>
 </p>
 
- 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
-<br/>
-
-
-  <a href="https://github.com/MohdZairi"><img alt="Mohd Zairi's Activity Graph" src="/profile-3d-contrib/profile-night-view.svg" /></a>
-<br/>
-<br/>
-
+<!----------------------------------- Banner - Contribution ------------------------------------>
+[![MasterHead](https://raw.githubusercontent.com/MohdZairi/MohdZairi/main//profile-3d-contrib/profile-night-view.svg)](#)
 
 
