@@ -69,7 +69,8 @@
     </a>
 </p>
 
-<!----------------------------------- Banner - Contribution ------------------------------------>
-[![MasterHead](https://raw.githubusercontent.com/MohdZairi/MohdZairi/main//profile-3d-contrib/profile-night-view.svg)](#)
+<!----------------------------------- Trophy ------------------------------------>
+<h2><i>Trophy</i></h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohdZairi"  /></a>
 
 
