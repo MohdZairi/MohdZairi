@@ -70,5 +70,6 @@
 </p>
 
 <!----------------------------------- Trophy ------------------------------------>
-<h2><i>Trophy</i></h2>
+## <h2><i>Trophy</i></h2>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=MohdZairi&theme=onedark)](https://github.com/MohdZairi/github-profile-trophy)
