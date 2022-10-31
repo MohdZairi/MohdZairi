@@ -16,8 +16,8 @@
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h3>Languages</h3>
 <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
@@ -38,6 +38,8 @@
 <h3>SoftWare</h3>
 <p>
     <img src="https://img.shields.io/badge/Matlab-00599C?style=for-the-badge&logo=matlab&logoColor=white" alt="matlab" />
+   <img src="https://img.shields.io/badge/Eyesim-05CC47?style=for-the-badge&logo=node.js&logoColor=white" alt="Eyesim" />
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
 </p>
 
 
@@ -53,8 +55,8 @@
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 <h2><i>My GitHub Stats</i></h2>
 <p>
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdzairi&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="mohdzairi" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdzairi&layout=compact&border_radius=0&theme=dark" alt="mohdzairi" height="139" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdzairi&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=blue-green" alt="mohdzairi" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdzairi&layout=compact&border_radius=0&theme=blue-green" alt="mohdzairi" height="139" />
 </p>
 
 
