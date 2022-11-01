@@ -9,7 +9,7 @@
      <img align="right" src="https://img.shields.io/github/followers/MohdZairi?label=Followers&style=social" alt="followers-count">
   </a>
   <h3>Hi, I'm Mohd Zairi</h3>
-  <p>I am Artificial Inteligent Student and Newbie in Backend. I'm a Fans of Geeky Shows
+  <p>I am Artificial Inteligent Student and Newbie in Backend.
   </P> 
 </div>
 
